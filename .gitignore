@@ -1,0 +1,15 @@
+#venv
+/mail_env
+
+#
+/.env
+
+# Byte-compiled / cached
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm files
+.idea/
+*.iml
